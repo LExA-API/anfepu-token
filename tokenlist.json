@@ -1,6 +1,6 @@
 {
   "name": "ANFEPU Token List",
-  "logoURI": "https://raw.githubusercontent.com/LExA-API/anfepu-token/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/LExA-API/anfepu-token/main/Logo.png",
   "keywords": ["anfepu", "afp", "token"],
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "symbol": "AFP",
       "name": "ANFEPU Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/LExA-API/anfepu-token/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/LExA-API/anfepu-token/main/Logo.png"
     }
   ],
   "version": {
